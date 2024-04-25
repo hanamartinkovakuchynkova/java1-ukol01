@@ -1,3 +1,7 @@
+# TASK 1 | JAVA 1 by Czechitas
+
+The aim of this task was to practice the methods using a total of 4 subtasks. In the 1st one the goal was to draw a picture of a pig with the help of Zofka the turtle. The 2nd task was to draw a sun, a circle and an octagon. In the 3rd task, Zofka had to draw houses in two rows on the picture and in the last 4th step we had to sign our first name.
+
 # Úkol 1 (lekce 2) – Želva Žofka
 
 Každou část úkolu vytvořte jako samostatný *commit*.
